@@ -1,6 +1,5 @@
 Most recent issue: [AUG13-AUG19 2018](https://github.com/preslavrachev/twil/blob/master/2018/august/aug13-aug19-2018.md)
 
-https://github.com/preslavrachev/twil/blob/master/2018/august/aug13-aug19-2018.md
 ---
 
 ## Old Issues
